@@ -5,3 +5,12 @@
 <h2>how to set up</h2><br>
 Configure the application using Desktop Qt 5.15.1 MinGW 64-bit kit
 • Compiler – MinGW 8.1.0 64 bit for C++
+
+<br>
+<h2>how to set up</h2><br>
+  <ul>
+  <li>Windows</li>
+  <li>Linux</li>
+  <li>macOS</li>
+ 
+  </ul>
