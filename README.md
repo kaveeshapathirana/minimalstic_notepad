@@ -17,4 +17,4 @@ Configure the application using Desktop Qt 5.15.1 MinGW 64-bit kit
   <br>
 <h2>Screenshots</h2><br>
 
-<img src=Screenshots/windows_min>
+<img src=Screenshots/windows_min.png>
