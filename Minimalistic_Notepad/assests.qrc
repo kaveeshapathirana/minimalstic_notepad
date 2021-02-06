@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/">
+        <file>Icons and Images/bold.png</file>
+        <file>Icons and Images/italic.png</file>
+        <file>Icons and Images/underlined-text.png</file>
+        <file>Icons and Images/lowercase-interface-symbol.png</file>
+        <file>Icons and Images/uppercase-interface-button.png</file>
+        <file>Icons and Images/marker.png</file>
+        <file>Icons and Images/text.png</file>
+        <file>Icons and Images/icons8-align-center-50.png</file>
+        <file>Icons and Images/icons8-align-justify-50.png</file>
+        <file>Icons and Images/icons8-align-left-50.png</file>
+        <file>Icons and Images/icons8-align-right-50.png</file>
+        <file>Icons and Images/cut.png</file>
+        <file>Icons and Images/diskette.png</file>
+        <file>Icons and Images/doc.png</file>
+        <file>Icons and Images/folder.png</file>
+        <file>Icons and Images/paste.png</file>
+        <file>Icons and Images/pdf.png</file>
+        <file>Icons and Images/power-off.png</file>
+        <file>Icons and Images/printer.png</file>
+        <file>Icons and Images/redo.png</file>
+        <file>Icons and Images/save.png</file>
+        <file>Icons and Images/txt.png</file>
+        <file>Icons and Images/undo (1).png</file>
+        <file>Icons and Images/font-size.png</file>
+        <file>Icons and Images/info.png</file>
+        <file>Icons and Images/text (2).png</file>
+        <file>Icons and Images/folder (2).png</file>
+        <file>Icons and Images/icons8-note-64 (2).png</file>
+        <file>Icons and Images/underline.png</file>
+        <file>Icons and Images/bold (1).png</file>
+        <file>Icons and Images/italic (1).png</file>
+        <file>Icons and Images/highlighter.png</file>
+        <file>Icons and Images/bold (2).png</file>
+        <file>Icons and Images/italic (2).png</file>
+        <file>Icons and Images/underline (1).png</file>
+        <file>Icons and Images/notepad.png</file>
+    </qresource>
+</RCC>
