@@ -21,6 +21,13 @@ Configure the application using Desktop Qt 5.15.1 MinGW 64-bit kit
 <img src=Screenshots/windows_min.png>
 <br>
 <h3>Windows(Maximized)</h3><br>
-<img src=Screenshots/windows_max.jpeg>
+<img src=Screenshots/windows_max.png>
+<br>
+
+<h3>Linux</h3><br>
+<img src=Screenshots/linux_min.jpeg>
+<br>
+<h3>Windows(Maximized)</h3><br>
+<img src=Screenshots/linux_max.jpeg>
 <br>
 
