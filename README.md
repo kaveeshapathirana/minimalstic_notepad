@@ -15,7 +15,7 @@ Configure the application using Desktop Qt 5.15.1 MinGW 64-bit kit
  
   </ul>
   <br>
-<h2>Screenshots</h2><br>
+<h2>Cross Platforms Appearance</h2><br>
 
 <h3>Windows</h3><br>
 <img src=Screenshots/windows_min.png>
@@ -27,7 +27,14 @@ Configure the application using Desktop Qt 5.15.1 MinGW 64-bit kit
 <h3>Linux</h3><br>
 <img src=Screenshots/linux_min.jpeg>
 <br>
-<h3>Windows(Maximized)</h3><br>
+<h3>Linux(Maximized)</h3><br>
 <img src=Screenshots/linux_max.jpeg>
+<br>
+
+<h3>macOS</h3><br>
+<img src=Screenshots/macOS_min.jpeg>
+<br>
+<h3>macOS(Maximized)</h3><br>
+<img src=Screenshots/mac_max.jpeg>
 <br>
 
