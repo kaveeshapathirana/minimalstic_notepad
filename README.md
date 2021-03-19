@@ -15,7 +15,7 @@ Configure the application using Desktop Qt 5.15.1 MinGW 64-bit kit
  
   </ul>
   <br>
-<h2>Cross Platforms Appearance</h2><br>
+<h2>Cross Platform Appearances</h2><br>
 
 <h3>Windows</h3><br>
 <img src=Screenshots/windows_min.png>
